@@ -1,4 +1,4 @@
-# aaaauto-testproject
+# aaaauto-testproject-Cypress
 Testovací úloha aaaauto.cz
 
 1) Vytvorte test - Vyfiltrujte auto a zkontrolujte výsledek filtrovani
